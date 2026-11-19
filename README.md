@@ -1,6 +1,6 @@
 # Does Women's Empowerment Save Lives? Infant Mortality Explorer
 
-**Live app:** https://6qq2q7-sina0marie-mayer.shinyapps.io/infant-mortality-explorer/
+**Live app:** https://sinamayer.shinyapps.io/infant-mortality-explorer/
 
 Are maternal empowerment indicators stronger predictors of infant mortality than GDP per capita? This project tests that "feminist hypothesis" with World Bank data for 153 countries and presents the results in an interactive R Shiny app.
 
